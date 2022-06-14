@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iMuKzdUj8f9fmvHeIBxgAgqghB2pKyHBRYabwPDuuPEHUYvlLcwrGy/ajz17kBTCq3jZM2jxcWw1vkTmq7jXBg==",
+  "success": true,
+  "projectFilePath": "E:\\Project\\Desktop\\PREMIER\\PREMIER.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed-Ramzy\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Mohamed-Ramzy\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\Mohamed-Ramzy\\.nuget\\packages\\newtonsoft.json\\6.0.4\\newtonsoft.json.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

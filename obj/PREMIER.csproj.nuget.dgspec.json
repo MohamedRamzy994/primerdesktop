@@ -1,0 +1,119 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Project\\Desktop\\PREMIER\\PREMIER.csproj": {}
+  },
+  "projects": {
+    "E:\\Project\\Desktop\\PREMIER\\PREMIER.Core\\PREMIER.core.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Project\\Desktop\\PREMIER\\PREMIER.Core\\PREMIER.core.csproj",
+        "projectName": "PREMIER.core",
+        "projectPath": "E:\\Project\\Desktop\\PREMIER\\PREMIER.Core\\PREMIER.core.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "E:\\Project\\Desktop\\PREMIER\\PREMIER.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\Desktop\\PREMIER\\PREMIER.csproj",
+        "projectName": "PREMIER",
+        "projectPath": "E:\\Project\\Desktop\\PREMIER\\PREMIER.csproj",
+        "packagesPath": "C:\\Users\\Mohamed-Ramzy\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\Desktop\\PREMIER\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mohamed-Ramzy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "E:\\Project\\Desktop\\PREMIER\\PREMIER.Core\\PREMIER.core.csproj": {
+                "projectPath": "E:\\Project\\Desktop\\PREMIER\\PREMIER.Core\\PREMIER.core.csproj"
+              },
+              "E:\\Project\\Desktop\\PREMIER\\PREMIER.Data\\PREMIER.data.csproj": {
+                "projectPath": "E:\\Project\\Desktop\\PREMIER\\PREMIER.Data\\PREMIER.data.csproj"
+              },
+              "E:\\Project\\Desktop\\PREMIER\\PREMIER.DBHelper\\PREMIER.dbhelper.csproj": {
+                "projectPath": "E:\\Project\\Desktop\\PREMIER\\PREMIER.DBHelper\\PREMIER.dbhelper.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "E:\\Project\\Desktop\\PREMIER\\PREMIER.Data\\PREMIER.data.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Project\\Desktop\\PREMIER\\PREMIER.Data\\PREMIER.data.csproj",
+        "projectName": "PREMIER.data",
+        "projectPath": "E:\\Project\\Desktop\\PREMIER\\PREMIER.Data\\PREMIER.data.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "E:\\Project\\Desktop\\PREMIER\\PREMIER.Core\\PREMIER.core.csproj": {
+                "projectPath": "E:\\Project\\Desktop\\PREMIER\\PREMIER.Core\\PREMIER.core.csproj"
+              },
+              "E:\\Project\\Desktop\\PREMIER\\PREMIER.DBHelper\\PREMIER.dbhelper.csproj": {
+                "projectPath": "E:\\Project\\Desktop\\PREMIER\\PREMIER.DBHelper\\PREMIER.dbhelper.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "E:\\Project\\Desktop\\PREMIER\\PREMIER.DBHelper\\PREMIER.dbhelper.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Project\\Desktop\\PREMIER\\PREMIER.DBHelper\\PREMIER.dbhelper.csproj",
+        "projectName": "PREMIER.dbhelper",
+        "projectPath": "E:\\Project\\Desktop\\PREMIER\\PREMIER.DBHelper\\PREMIER.dbhelper.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}
