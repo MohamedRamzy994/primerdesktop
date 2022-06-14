@@ -1,2 +1,0 @@
-# primerdesktop
-# Mohamed Ramzy
